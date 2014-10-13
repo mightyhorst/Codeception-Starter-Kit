@@ -15,9 +15,9 @@ How to install and configure it?
 * First clone the repo: git clone https://github.com/mitni455/Codeception-Starter-Kit/
 * cd into /codecepetion-starter-kit or rename codeception (mv codecepetion-starter-kit codecpetion)
 * Update your config files for the dev and test environments, including:
-** codeception.yml.dev and codeception.yml.test
-** tests/acceptance.suite.yml.dev and tests/acceptance.suite.yml.test
-** tests/unit.suite.yml.dev and tests/unit.suite.yml.test
+-  codeception.yml.dev and codeception.yml.test
+- tests/acceptance.suite.yml.dev and tests/acceptance.suite.yml.test
+- tests/unit.suite.yml.dev and tests/unit.suite.yml.test
 
 ** note - functional not used for simplicity, but I could add that too
 
