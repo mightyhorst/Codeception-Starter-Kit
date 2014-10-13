@@ -1,0 +1,6 @@
+{
+	"require-dev": {
+    	"codeception/specify": "*",
+    	"codeception/verify": "*"
+    }
+}
