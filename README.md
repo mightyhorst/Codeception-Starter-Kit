@@ -24,7 +24,8 @@ How to install and configure it?
 How to Running tests?
 =====================
 * Run the SuperLogical Tests script (./sl_tests.sh)
-* Choose the environment you are running on. This will overwrite the *.yml configs with the *.yml.dev or *.yml.test appropriately
+* Choose the environment you are running on. 
+  - This will overwrite the *.yml configs with the *.yml.dev or *.yml.test appropriately
 * This will run all the unit tests
 * This will load selenium in the background and then run the acceptance tests
 
